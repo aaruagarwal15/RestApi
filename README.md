@@ -1,6 +1,7 @@
 # RestApi
 
-How to run - 
+How to run:
+
 restapi1 -> index.php 
 
 
